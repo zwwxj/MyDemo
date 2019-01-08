@@ -1,4 +1,4 @@
-package com.example.zhouwei2.extendtest;
+﻿package com.example.zhouwei2.extendtest;
 
 import android.util.Log;
 
@@ -27,4 +27,6 @@ public class TestA {
 	public void new_branch(){
 		Log.e("test","new_branch")
 	}
+
+
 }
