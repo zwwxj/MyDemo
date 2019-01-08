@@ -35,6 +35,8 @@ public class TestA {
    public void roll01(){
 		Log.e("test","roll")
 	}
-
+ public void roll02(){
+		Log.e("test","roll02")
+	}
 
 }
