@@ -23,4 +23,8 @@ public class TestA {
 	public void combine(){
 		Log.e("测试A:","合并的测试");
 	}
+	
+	public void new_branch(){
+		Log.e("test","new_branch")
+	}
 }
