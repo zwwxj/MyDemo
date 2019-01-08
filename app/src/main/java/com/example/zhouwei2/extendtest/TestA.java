@@ -29,6 +29,8 @@ public class TestA {
 	public void new_branch(){
 		Log.e("test","new_branch")
 	}
-
+    public void roll(){
+		Log.e("test","roll")
+	}
 
 }
