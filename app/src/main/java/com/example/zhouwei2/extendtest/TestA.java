@@ -19,7 +19,7 @@ public class TestA {
     public void A(){
         Log.e("测试A:","这是A类的方法A");
     }
-<<<<<<< HEAD
+
 	
 	public void combine(){
 		Log.e("测试A:","合并的测试");
@@ -28,6 +28,6 @@ public class TestA {
 	public void new_branch(){
 		Log.e("test","new_branch")
 	}
-=======
->>>>>>> parent of 9e8aad8... add  dev   daima
+
+
 }
