@@ -30,17 +30,5 @@ public class TestA {
 		Log.e("test","new_branch")
 	}
 
-    public void roll(){
-		Log.e("test","roll")
-	}
-   public void roll01(){
-		Log.e("test","roll")
-	}
- public void roll02(){
-		Log.e("test","roll02")
-	}
-
-
-
 
 }
