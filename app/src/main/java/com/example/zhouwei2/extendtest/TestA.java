@@ -19,4 +19,8 @@ public class TestA {
     public void A(){
         Log.e("测试A:","这是A类的方法A");
     }
+	
+	public void combine(){
+		Log.e("测试A:","合并的测试");
+	}
 }
