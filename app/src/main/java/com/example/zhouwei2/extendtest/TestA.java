@@ -1,4 +1,4 @@
-﻿package com.example.zhouwei2.extendtest;
+package com.example.zhouwei2.extendtest;
 
 import android.util.Log;
 
@@ -19,7 +19,6 @@ public class TestA {
     public void A(){
         Log.e("测试A:","这是A类的方法A");
     }
-
 
 	
 	public void combine(){
