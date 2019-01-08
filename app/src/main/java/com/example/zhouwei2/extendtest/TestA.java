@@ -32,5 +32,9 @@ public class TestA {
     public void roll(){
 		Log.e("test","roll")
 	}
+   public void roll01(){
+		Log.e("test","roll")
+	}
+
 
 }
