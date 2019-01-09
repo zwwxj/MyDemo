@@ -1,4 +1,4 @@
-﻿package com.example.zhouwei2.extendtest;
+package com.example.zhouwei2.extendtest;
 
 import android.util.Log;
 
@@ -20,7 +20,6 @@ public class TestA {
         Log.e("测试A:","这是A类的方法A");
     }
 
-
 	
 	public void combine(){
 		Log.e("测试A:","合并的测试");
@@ -29,6 +28,18 @@ public class TestA {
 	public void new_branch(){
 		Log.e("test","new_branch")
 	}
+
+    public void roll(){
+		Log.e("test","roll")
+	}
+   public void roll01(){
+		Log.e("test","roll")
+	}
+ public void roll02(){
+		Log.e("test","roll02")
+	}
+
+
 
 
 }
